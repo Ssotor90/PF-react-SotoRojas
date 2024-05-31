@@ -1,0 +1,9 @@
+.footer--style {
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+    background-color: rgb(28, 29, 31);
+    color: white;
+}
+

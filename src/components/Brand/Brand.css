@@ -1,0 +1,11 @@
+.brand__style{
+    font-style: italic;
+    color: white;
+    font-size: 50px;
+}
+
+.brand__style:active{
+    font-style: italic;
+    color: white;
+    font-size: 50px;
+}
