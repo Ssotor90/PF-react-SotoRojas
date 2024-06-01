@@ -50,7 +50,7 @@ const cartTotal = cart
     .reduce((acc, item) => {
       return acc + item.product.price * item.quantity;
     }, 0)
-    .toFixed(2);
+    .toFixed(0);
 
 return (
     <CartContext.Provider
