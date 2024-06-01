@@ -38,8 +38,6 @@ export default function CartContainer() {
                 total: cartTotal,
                 createdAt: firebase.firestore.FieldValue.serverTimestamp(),
             });
-            console.log("Orden creada con ID:", newOrderRef.id);
-            // Aquí podrías redirigir al usuario a una página de confirmación o realizar otras acciones después de completar la compra.
         } catch (error) {
             console.error("Error al crear la orden:", error);
         }
