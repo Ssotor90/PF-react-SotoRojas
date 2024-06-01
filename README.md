@@ -1,8 +1,11 @@
-# React + Vite
+# RobCo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta página tiene como fin mostrar lo trabajado durante el curso de React, para ello se crearon distintos componentes que interactúan entre si para simular una compra de productos, su detalle individual, el carro de compras y su respectivo formulario de compra.
 
-Currently, two official plugins are available:
+Se agradece a los tutores y al profesor por las enseñanzas, la dedicación y la paciencia con nosotros.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Inspiración
+
+Este proyecto esta basado en una empresa ficticia dentro del mundo de videojuegos de Fallout cuyo énfasis es la creación de robots para la seguridad y el hogar.
+
+Finalmente mencionar que soy ***pésimo*** con CSS.
