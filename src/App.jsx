@@ -7,8 +7,6 @@ import ItemDetail from './components/ItemDetail/ItemDetail'
 import CartProvider from './context/CartProvider'
 import CartContainer from './components/CartContainer/CartContainer'
 
-
-
 function App() {
 
   return (
